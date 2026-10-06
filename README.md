@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=210&section=header&text=Muhammad%20Islah%20Uddin&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=DevOps%20%26%20Cloud%20Engineering&descSize=20&descAlignY=58" width="100%" alt="Muhammad Islah Uddin"/>
+<img src="assets/banner.svg" width="100%" alt="Muhammad Islah Uddin"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Linux+%7C+Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+CI%2FCD+%7C+GitOps+%7C+Monitoring;Build+%E2%86%92+Break+%E2%86%92+Troubleshoot+%E2%86%92+Automate" alt="Typing animation"/>
