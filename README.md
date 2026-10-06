@@ -10,10 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Linux+%7C+Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+CI%2FCD+%7C+GitOps+%7C+Monitoring;Build+%E2%86%92+Break+%E2%86%92+Troubleshoot+%E2%86%92+Automate" alt="Typing animation"/>
 </a>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Linux+%7C+Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+CI%2FCD+%7C+GitOps+%7C+Monitoring;Build+%E2%86%92+Break+%E2%86%92+Troubleshoot+%E2%86%92+Automate" alt="Typing animation"/>
-</a>
-
 <br/>
 
 <a href="https://linkedin.com/in/muhammad-islah-uddin-941335196">
